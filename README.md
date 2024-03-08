@@ -1,0 +1,1 @@
+This project analysed data from IBM Employee Dataset to assist the HR department determine the factors contributing to employee attrition, and further build a model to predict whether an employee will undergo attrition or not (Classification).
